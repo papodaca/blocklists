@@ -1,3 +1,4 @@
+127.0.0.1       graph.facebook.com
 127.0.0.1       disney.tt.omtrdc.net
 127.0.0.1       fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
 127.0.0.1       api.micloud.xiaomi.net
@@ -8,3 +9,4 @@
 127.0.0.1       g.galleryapi.micloud.xiaomi.net
 127.0.0.1       i.mi.com
 127.0.0.1       bf97371pls.bf.dynatrace.com
+127.0.0.1       app.chat.global.xiaomi.net
